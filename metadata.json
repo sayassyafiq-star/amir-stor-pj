@@ -1,0 +1,6 @@
+{
+  "name": "AMiR — Ambil Isi Rekod",
+  "description": "Buku rekod digital moden dan ringkas untuk stor Pendidikan Jasmani sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
